@@ -1,0 +1,4 @@
+invoice_id,purchase_id,invoiced_amount
+INV-SUM-01,SUM-01,1850
+INV-SUM-02,SUM-02,3200
+INV-SUM-03,SUM-03,1100

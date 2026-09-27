@@ -1,0 +1,4 @@
+invoice_id,order_id,invoiced_amount
+INV-CED-01,CED-01,3250
+INV-CED-02,CED-02,900
+INV-CED-03,CED-03,1800

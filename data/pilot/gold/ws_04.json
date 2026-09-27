@@ -1,0 +1,138 @@
+{
+  "ws_04_q01": {
+    "answer": "2026-11-13",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "557e2f2a788aee981ce7a994"
+      ]
+    ],
+    "sources": [
+      "manual.md"
+    ]
+  },
+  "ws_04_q02": {
+    "answer": "Maple Office",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "91b82e5f1e4c37543a7000da"
+      ]
+    ],
+    "sources": [
+      "department.json"
+    ]
+  },
+  "ws_04_q03": {
+    "answer": 4300,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "187c7ac2a9a974bb5425ec7b"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_04_q04": {
+    "answer": 7500,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "ad8baa102b8508d59fb2111b"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_04_q05": {
+    "answer": 475,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "b4e048c8834de2e8cb8ed390"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_04_q06": {
+    "answer": 825,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "76cd1eb3d285159c7d4ac0a1"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_04_q07": {
+    "answer": 83,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "a7fc861e6727a8c7fc981d77"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_04_q08": {
+    "answer": 123,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "87de8d40012fc6229464a82a"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_04_q09": {
+    "answer": 150,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "7f81723ea5a25d37d729674b",
+        "654bb4217a7742d978475185"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_04_q10": {
+    "answer": -100,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "81f6f194f9c5deea5fd60466",
+        "b459605d04c24d5a0afc53df"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_04_q11": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  },
+  "ws_04_q12": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  }
+}

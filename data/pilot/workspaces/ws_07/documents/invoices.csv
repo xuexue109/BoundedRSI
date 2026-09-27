@@ -1,0 +1,4 @@
+invoice_id,order_id,invoiced_amount
+INV-WIL-01,WIL-01,2150
+INV-WIL-02,WIL-02,1900
+INV-WIL-03,WIL-03,1700

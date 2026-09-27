@@ -1,0 +1,138 @@
+{
+  "ws_02_q01": {
+    "answer": "2026-11-11",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "f0419ab2c8c53c1547b7ae52"
+      ]
+    ],
+    "sources": [
+      "manual.md"
+    ]
+  },
+  "ws_02_q02": {
+    "answer": "Harbor Office",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "aff9b3af1a919be71d7605f3"
+      ]
+    ],
+    "sources": [
+      "department.json"
+    ]
+  },
+  "ws_02_q03": {
+    "answer": 2000,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "679ae5663eefe8378222f3b7"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_02_q04": {
+    "answer": 7700,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "83f679636e7d71f63a3a5984"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_02_q05": {
+    "answer": 425,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "c8adba5206c9fc223eb9aac6"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_02_q06": {
+    "answer": 775,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "654555edc8546da2c9435856"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_02_q07": {
+    "answer": 81,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "c7380a531a2ef9999bc85451"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_02_q08": {
+    "answer": 121,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "31745110f0f99ac0bba0c1b4"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_02_q09": {
+    "answer": 150,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "2e4112502e449409518a38a0",
+        "c4f54799861e08ae480ae4a4"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_02_q10": {
+    "answer": -100,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "960529887ca03fff3a7e4c0f",
+        "68abc560507b5376c1776171"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_02_q11": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  },
+  "ws_02_q12": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  }
+}

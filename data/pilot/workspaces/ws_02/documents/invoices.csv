@@ -1,0 +1,4 @@
+invoice_id,purchase_id,invoiced_amount
+INV-HAR-01,HAR-01,1350
+INV-HAR-02,HAR-02,2700
+INV-HAR-03,HAR-03,3400

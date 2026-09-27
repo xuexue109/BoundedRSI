@@ -1,0 +1,4 @@
+invoice_id,order_id,invoiced_amount
+INV-BIR-01,BIR-01,1950
+INV-BIR-02,BIR-02,2400
+INV-BIR-03,BIR-03,1600

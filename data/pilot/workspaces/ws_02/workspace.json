@@ -1,0 +1,50 @@
+{
+  "id": "ws_02",
+  "family": "Harbor",
+  "documents": [
+    {
+      "path": "manual.md",
+      "collection": "manual"
+    },
+    {
+      "path": "department.json",
+      "collection": "directory"
+    },
+    {
+      "path": "budgets.csv",
+      "collection": "budgets"
+    },
+    {
+      "path": "policy_alpha.md",
+      "collection": "policy",
+      "version": "1",
+      "valid_from": "2025-01-01",
+      "valid_to": "2026-04-01",
+      "authority": 10
+    },
+    {
+      "path": "policy_beta.md",
+      "collection": "policy",
+      "version": "2",
+      "valid_from": "2026-04-01",
+      "valid_to": null,
+      "authority": 10
+    },
+    {
+      "path": "draft_notes.md",
+      "collection": "policy",
+      "version": "3",
+      "valid_from": "2025-01-01",
+      "valid_to": null,
+      "authority": 1
+    },
+    {
+      "path": "orders.csv",
+      "collection": "orders"
+    },
+    {
+      "path": "invoices.csv",
+      "collection": "invoices"
+    }
+  ]
+}

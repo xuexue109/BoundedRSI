@@ -1,0 +1,4 @@
+invoice_id,purchase_id,invoiced_amount
+INV-AUR-01,AUR-01,1650
+INV-AUR-02,AUR-02,3700
+INV-AUR-03,AUR-03,1600

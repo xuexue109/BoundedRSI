@@ -1,0 +1,4 @@
+invoice_id,purchase_id,invoiced_amount
+INV-QUA-01,QUA-01,3050
+INV-QUA-02,QUA-02,3200
+INV-QUA-03,QUA-03,3800

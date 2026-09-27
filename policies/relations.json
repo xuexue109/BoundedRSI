@@ -1,0 +1,1 @@
+{"name":"relations","description":"Manual patch 3: infer cross-document links on matching nonempty *_id fields; depends on table records.","table_records":true,"temporal_metadata":false,"relational_links":true}

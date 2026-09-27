@@ -1,0 +1,4 @@
+invoice_id,order_id,invoiced_amount
+INV-DEL-01,DEL-01,3450
+INV-DEL-02,DEL-02,3200
+INV-DEL-03,DEL-03,3700

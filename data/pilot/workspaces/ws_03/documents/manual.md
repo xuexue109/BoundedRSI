@@ -1,0 +1,3 @@
+# Cedar handbook
+shipping_date: 2026-11-12
+contact_channel: helpdesk

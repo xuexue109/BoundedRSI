@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "seed": 6100,
+  "synthetic": true,
+  "workspaces": [
+    {
+      "id": "ws_01",
+      "family": "Orchid",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_02",
+      "family": "Harbor",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_03",
+      "family": "Cedar",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_04",
+      "family": "Maple",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_05",
+      "family": "Delta",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_06",
+      "family": "Summit",
+      "split": "development",
+      "task_count": 12
+    },
+    {
+      "id": "ws_07",
+      "family": "Willow",
+      "split": "validation",
+      "task_count": 12
+    },
+    {
+      "id": "ws_08",
+      "family": "Quartz",
+      "split": "validation",
+      "task_count": 12
+    },
+    {
+      "id": "ws_09",
+      "family": "Birch",
+      "split": "locked_holdout",
+      "task_count": 12
+    },
+    {
+      "id": "ws_10",
+      "family": "Aurora",
+      "split": "locked_holdout",
+      "task_count": 12
+    }
+  ]
+}

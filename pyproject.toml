@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boundedrsi"
+version = "0.1.0"
+description = "Auditable workspace surface and evidence-grounded evaluation pilot"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+pdf = ["pypdf>=5,<7"]
+
+[project.scripts]
+boundedrsi = "boundedrsi.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["boundedrsi*"]

@@ -1,0 +1,4 @@
+invoice_id,purchase_id,invoiced_amount
+INV-MAP-01,MAP-01,4050
+INV-MAP-02,MAP-02,2900
+INV-MAP-03,MAP-03,3800

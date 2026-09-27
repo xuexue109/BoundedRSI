@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "BoundedRSI: Debug pilot",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "boundedrsi",
+      "args": ["pilot", "--out", "${input:debugOutput}"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "justMyCode": true
+    }
+  ],
+  "inputs": [
+    {"id": "debugOutput", "type": "promptString", "description": "New debug run output directory", "default": "artifacts/debug-run"}
+  ]
+}

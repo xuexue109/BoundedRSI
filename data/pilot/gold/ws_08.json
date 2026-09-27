@@ -1,0 +1,138 @@
+{
+  "ws_08_q01": {
+    "answer": "2026-11-17",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "0495dabd695d1d474a33621c"
+      ]
+    ],
+    "sources": [
+      "manual.md"
+    ]
+  },
+  "ws_08_q02": {
+    "answer": "Quartz Office",
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "8a2bf13384f5f7bdddb42ac3"
+      ]
+    ],
+    "sources": [
+      "department.json"
+    ]
+  },
+  "ws_08_q03": {
+    "answer": 2400,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "720ab26ad01a64b6a80da981"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_08_q04": {
+    "answer": 5400,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "557603a804230bbe8fefc1da"
+      ]
+    ],
+    "sources": [
+      "budgets.csv"
+    ]
+  },
+  "ws_08_q05": {
+    "answer": 575,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "23340cc41ece7c9c3713db93"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_08_q06": {
+    "answer": 925,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "2f0348415ef16866b6092871"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_08_q07": {
+    "answer": 87,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "5d49214b47f35ea2c6b6a10d"
+      ]
+    ],
+    "sources": [
+      "policy_alpha.md"
+    ]
+  },
+  "ws_08_q08": {
+    "answer": 127,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "556015ece1a5fd691ca27b60"
+      ]
+    ],
+    "sources": [
+      "policy_beta.md"
+    ]
+  },
+  "ws_08_q09": {
+    "answer": 150,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "54ddf6a228a3f38044bb5882",
+        "f2c6617a167c9871238ad10d"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_08_q10": {
+    "answer": -100,
+    "unanswerable": false,
+    "evidence_sets": [
+      [
+        "f008b6fd7e0f9e9081f4dba2",
+        "0952389bcd7ecd196b3c3bea"
+      ]
+    ],
+    "sources": [
+      "invoices.csv",
+      "orders.csv"
+    ]
+  },
+  "ws_08_q11": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  },
+  "ws_08_q12": {
+    "answer": null,
+    "unanswerable": true,
+    "evidence_sets": [],
+    "sources": []
+  }
+}

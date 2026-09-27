@@ -1,0 +1,4 @@
+invoice_id,order_id,invoiced_amount
+INV-ORC-01,ORC-01,3750
+INV-ORC-02,ORC-02,1200
+INV-ORC-03,ORC-03,2100

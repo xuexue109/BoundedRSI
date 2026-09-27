@@ -1,0 +1,1 @@
+{"name":"latest_only_control","description":"Intentional negative control: discard historical policy content to demonstrate historical-query regression. Not an observed natural regression.","table_records":true,"temporal_metadata":true,"relational_links":true,"latest_only":true}

@@ -1,0 +1,1 @@
+{"name":"temporal","description":"Manual patch 2: preserve valid-from and exclusive valid-to for effective-time retrieval.","table_records":false,"temporal_metadata":true,"relational_links":false}
